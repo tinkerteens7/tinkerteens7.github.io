@@ -1,0 +1,17 @@
+{
+	"name": "frog",
+	"short_name": "frog",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/Иконка-256.png",
+			"sizes": "21x16",
+			"type": "image/png"
+		}
+	],
+	"screenshots": []
+}
